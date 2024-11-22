@@ -1,7 +1,7 @@
 # **Proyecto M4: Pokédex con Python**
 
-# **Descripción**
-Este proyecto consiste en la creación de una Pokédex interactiva que utiliza la API de [PokeAPI](https://pokeapi.co/). El programa permite consultar información detallada sobre cualquier Pokémon, mostrar datos clave como habilidades, movimientos, tipos, peso y tamaño, además de descargar y visualizar la imagen del Pokémon. También ofrece la funcionalidad de guardar esta información en un archivo JSON para su uso posterior.
+## **Descripción**
+##Este proyecto consiste en la creación de una Pokédex interactiva que utiliza la API de [PokeAPI](https://pokeapi.co/). El programa permite consultar información detallada sobre cualquier Pokémon, mostrar datos clave como habilidades, movimientos, tipos, peso y tamaño, además de descargar y visualizar la imagen del Pokémon. También ofrece la funcionalidad de guardar esta información en un archivo JSON para su uso posterior.
 ---
 
 ## **Contenido**
